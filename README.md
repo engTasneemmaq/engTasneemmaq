@@ -10,7 +10,7 @@
 <br>
 <br>
 
-## <a href="https://engtasneemmaq.github.io/tasneem-portfolio/">My Portfolio Link👩🏻‍💻</a>
+## <a href="https://tasneem-portfolio.netlify.app/">My Portfolio Link👩🏻‍💻</a>
 
 <br>
 
